@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @palekov
 - 👀 I’m interested in Test Automation
-- 🌱 I’m currently learning Dive into CI with Jenkins
+- 🌱 I’m currently learning Microservices programming with SpringBoot
 
 <!---
 palekov/palekov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
