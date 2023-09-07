@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @palekov
-- 👀 I’m interested in Test Automation
+- 👀 I’m interested in Java Developing and Test Automation
 - 🌱 I’m currently learning Microservices programming with SpringBoot
 
 <!---
