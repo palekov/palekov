@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @palekov
 - 👀 I’m interested in Java Developing and Test Automation
 - 🌱 I’m currently learning Microservices programming with SpringBoot
+- 🌱 and imrooving my skills in Java enterprise developing
 
 <!---
 palekov/palekov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
